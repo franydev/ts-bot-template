@@ -1,0 +1,19 @@
+{
+  "name": "eus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && node dist",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.5.0"
+  }
+}
